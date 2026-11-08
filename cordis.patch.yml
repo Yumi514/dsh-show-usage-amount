@@ -1,0 +1,4 @@
+# dsh-show-usage-amount bundle patch: inserts the plugin row into a profile's layer stack.
+- insert:
+    - id: show-usage-amount
+      name: 'dsh-show-usage-amount'
